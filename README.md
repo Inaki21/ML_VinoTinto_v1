@@ -69,3 +69,5 @@ Este proyecto está diseñado para predecir la calidad de un vino utilizando un 
 3. **EJECUTAR training.py**
 4. **EJECUTAR main.py**
 
+
+Con el modelo y ejecutando el programa de la carpeta streamlit también podemos realizar las predicciones.
