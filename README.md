@@ -71,3 +71,4 @@ Este proyecto está diseñado para predecir la calidad de un vino utilizando un 
 
 
 Con el modelo y ejecutando el programa de la carpeta streamlit también podemos realizar las predicciones.
+EL modelo es necesario descomprimirlo de la carpeta comprimida para usarlo. se pueden borrar los otros dos modelos.
