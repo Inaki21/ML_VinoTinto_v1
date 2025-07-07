@@ -59,7 +59,7 @@ import joblib
 from sklearn.preprocessing import StandardScaler
 
 # Cargar el modelo Random Forest entrenado
-model = joblib.load('../notebooks/random_forest_model.pkl')
+model = joblib.load('../modelos/random_forest_model.pkl')
 
 # Cargar el escalador que se usó para escalar los datos durante el entrenamiento
 scaler = StandardScaler()  # Si usaste un scaler entrenado, cárgalo aquí también
