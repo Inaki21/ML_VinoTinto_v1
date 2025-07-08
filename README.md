@@ -20,18 +20,18 @@ La estructura del proyecto es la siguiente:
 | |-- 01_Fuentes_Limpieza.ipynb # Notebook de limpieza de datos  
 | |-- 02_Modelos.ipynb # Notebook de entrenamiento de modelos supervisados  
 | |-- 03_Modelo_NoSupervisado.ipynb # Notebook para el modelo de clustering (KMeans)  
-| |-- 04_SeleccionModelo.ipynb # Selección y comparación del mejor modelo  
+| |-- 04_SeleccionModelo.ipynb # Selección y comparación del mejor modelo    
 |   
 |-- src  
 | |-- limpieza.py # Script para limpiar y balancear los datos  
 | |-- evaluation.py # Script para evaluar los modelos  
 | |-- training.py # Script para entrenar el modelo  
 | |-- main.py # Script para realizar predicciones con el modelo  
-|
+|  
 |-- models  
 | |-- random_forest_model.pkl # Modelo entrenado Random Forest  
-|
-|-- docs  
+|  
+|-- docs    
 | |-- negocio.ppt # Presentación de negocio  
 | |-- ds.ppt # Presentación técnica de los resultados  
 | |-- memoria.md # Documentación del proyecto  
